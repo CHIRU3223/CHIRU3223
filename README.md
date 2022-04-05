@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain, Web Development
 - 🌱 I’m currently learning Web Development(React), Blockchain
 - 💞️ I’m looking to collaborate on Anything interesting!!!
-- 📫 How to reach me through chat.
+- 📫 Reach me through chat.
 
 <!---
 CHIRU3223/CHIRU3223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
